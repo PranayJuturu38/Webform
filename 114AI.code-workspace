@@ -1,15 +1,19 @@
 {
 	"folders": [
 		{
+			"name": "build",
 			"path": "build"
 		},
 		{
+			"name": "node_modules",
 			"path": "node_modules"
 		},
 		{
+			"name": "public",
 			"path": "public"
 		},
 		{
+			"name": "src",
 			"path": "src"
 		}
 	]
